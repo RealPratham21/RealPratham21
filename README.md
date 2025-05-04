@@ -43,15 +43,15 @@ Here are some of my favorite AI/ML projects:
 - 🪖 **Helmet Detection System (YOLO + CNN)**  
   YOLOv8-based object detection system to identify helmet rule violations in real-time video streams.
 
-> [Check out more projects →](https://github.com/prathamesh7x1?tab=repositories)
+> [Check out more projects →](https://github.com/RealPratham21?tab=repositories)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh7x1&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh7x1&theme=github-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealPratham21&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealPratham21&theme=github-dark" width="48%" />
 </p>
 
 ---
