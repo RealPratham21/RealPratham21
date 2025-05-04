@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-I'm a curious and driven Computer Science diploma student from Pune, India, deeply passionate about Machine Learning and Deep Learning. With hands-on experience in building end-to-end AI applications and a solid foundation in Python, DSA, and Web Technologies, I’m on a mission to apply intelligent systems to solve real-world problems.
+I'm a curious and driven Computer Science student from Pune, India, deeply passionate about Machine Learning and Deep Learning. With hands-on experience in building end-to-end AI applications and a solid foundation in Python and Data Structures and Algorithms, I’m on a mission to apply intelligent systems to solve real-world problems.
 
-- 💡 Currently exploring: **Computer Vision**, **YOLO Models**, and **Model Deployment**
+- 💡 Currently exploring: **Machine Learning** | **Deep Learning** | **Data Science** | **Data Analysis**
 - 🔍 Actively solving 1000+ problems on **LeetCode** with a year-long streak
 - 🧠 Learning fast, building smart – one project at a time
 - 🎯 Goal: Land an impactful internship in **AI/ML** and contribute to open-source projects
