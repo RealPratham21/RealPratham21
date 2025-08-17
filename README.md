@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Prathamesh 👋</h1>
 
 <p align="center">
-  <i>Aspiring Machine Learning Engineer | Data-Driven Problem Solver | DSA Enthusiast</i>
+  <i> Machine Learning Engineer | Data-Driven Problem Solver | DSA Enthusiast</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a curious and driven Computer Science student from Pune, India, deeply passionate about Machine Learning and Deep Learning. With hands-on experience in building end-to-end AI applications and a solid foundation in Python and Data Structures and Algorithms, I’m on a mission to apply intelligent systems to solve real-world problems.
+I'm a curious and driven Computer Science student from Pune, India, deeply passionate about Machine Learning and Deep Learning. Currently also exploring Blockchain. With hands-on experience in building end-to-end AI applications and a solid foundation in Python and Data Structures and Algorithms, I’m currently also a ML intern at **Arealis Networks**.
 
-- 💡 Currently exploring: **Machine Learning** | **Deep Learning** | **Data Science** | **Data Analysis**
-- 🔍 Actively solving 1000+ problems on **LeetCode** with a year-long streak
+- 💡 Currently exploring: **Machine Learning** | **Deep Learning** | **Data Science** | **Data Analysis** | **Blockchain**
+- 🔍 Actively solving 1000+ problems on **LeetCode** with more than a year-long streak
 - 🧠 Learning fast, building smart – one project at a time
-- 🎯 Goal: Land an impactful internship in **AI/ML** and contribute to open-source projects
+- 🎯 Goal: Work and develop solutions that tackle Real world problems. 
 
 ---
 
